@@ -1,5 +1,5 @@
 
-# Restaurant inspection_Dashboard
+# Restaurant Inspection_Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=ac44c4aa-f577-438e-b6e4-2a4af7116e01&autoAuth=true&ctid=7a95ad65-55ee-41e3-ba46-acbdf605ee3d
 
